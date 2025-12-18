@@ -1,7 +1,7 @@
 # Hotmail Availability Checker
 # Hotmail可用性检查器
 
-![hotmail-email-availability-checker](https://raw.githubusercontent.com/pycoding20/hotmail-availability-checker/refs/heads/main/hotmail-availability-checker.png)
+![hotmail-email-availability-checker](https://raw.githubusercontent.com/alexrony21/hotmail-availability-check/refs/heads/main/hotmail-availability-checker.png)
 
 ---
 
